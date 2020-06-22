@@ -1,8 +1,12 @@
+@import 'reset.css';
+/* reset standart css styles */
+
 body {
     display: flex;
     align-items: center;
     justify-content: center;
     background: #56c1ffb2;
+    height: 100vh;
 }
 
 p {
